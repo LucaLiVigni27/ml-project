@@ -18,6 +18,7 @@ Airbnb prices can vary widely depending on location, room type, property type, n
 - Automatically estimates latitude and longitude from the selected neighborhood
 - Shows market insights by room type and neighborhood
 - Displays model quality metrics and feature importance
+- Added a PySpark notebook for market analysis by booking type, neighborhood, and guest capacity
 
 ## Dashboard Preview
 
