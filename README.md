@@ -19,6 +19,7 @@ Airbnb prices can vary widely depending on location, room type, property type, n
 - Shows market insights by room type and neighborhood
 - Displays model quality metrics and feature importance
 - Added a PySpark notebook for market analysis by booking type, neighborhood, and guest capacity
+- Tracked model experiments with MLflow to compare metrics across regression models
 
 ## Dashboard Preview
 
@@ -64,6 +65,12 @@ The best model achieved:
 - R² on log price: about 0.852
 
 These results show that the model captures a meaningful amount of price variation, although exact Airbnb pricing can still depend on factors not fully captured in the dataset, such as listing photos, local events, and demand.
+
+## MLflow Experiment Tracking
+
+ MLflow experiment tracking is used to compare model runs, parameters, and evaluation metrics all in one place. 
+
+![MLflow tracking](reports/screenshots/mlflow_tracking.png)
 
 ## Tech Stack
 
