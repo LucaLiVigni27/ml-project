@@ -1,0 +1,238 @@
+room_type,price_rank,neighbourhood_cleansed,num_listings,avg_price,median_price
+Entire home/apt,1,Beverly Crest,146,1279.02,1225.0
+Entire home/apt,2,Bel-Air,42,1201.98,1005.0
+Entire home/apt,3,Malibu,284,1063.35,870.0
+Entire home/apt,4,Hollywood Hills West,499,1053.54,947.27
+Entire home/apt,5,Avalon,241,938.12,869.5
+Entire home/apt,6,Unincorporated Santa Monica Mountains,153,862.84,670.0
+Entire home/apt,7,Manhattan Beach,377,780.68,624.0
+Entire home/apt,8,Pacific Palisades,75,725.88,510.69
+Entire home/apt,9,Tarzana,143,648.27,422.0
+Entire home/apt,10,Veterans Administration,50,634.62,548.25
+Entire home/apt,11,Rancho Palos Verdes,59,630.21,353.98
+Entire home/apt,12,Beverly Grove,350,623.41,342.0
+Entire home/apt,13,Fairfax,193,616.78,313.43
+Entire home/apt,14,Ladera Heights,44,613.96,488.98
+Entire home/apt,15,Encino,178,589.85,339.97
+Entire home/apt,16,Hermosa Beach,227,584.25,457.0
+Entire home/apt,17,Universal City,37,557.96,444.34
+Entire home/apt,18,Beverly Hills,487,538.16,380.67
+Entire home/apt,19,Sherman Oaks,383,531.04,303.34
+Entire home/apt,20,Marina del Rey,295,527.19,456.33
+Entire home/apt,21,Hollywood Hills,496,517.71,347.37
+Entire home/apt,22,Agoura Hills,41,513.93,431.27
+Entire home/apt,23,Topanga,304,508.71,355.48
+Entire home/apt,24,Studio City,283,495.1,314.9
+Entire home/apt,25,Brentwood,91,483.72,242.08
+Entire home/apt,26,Venice,1092,469.72,320.79
+Entire home/apt,27,View Park-Windsor Hills,147,460.86,316.11
+Entire home/apt,28,Vernon,132,456.38,377.0
+Entire home/apt,29,Playa del Rey,70,449.94,313.05
+Entire home/apt,30,Chatsworth,60,439.27,333.51
+Entire home/apt,31,Century City,30,435.39,231.29
+Entire home/apt,32,Granada Hills,53,434.53,364.0
+Entire home/apt,33,Valley Village,116,422.99,249.0
+Entire home/apt,34,Castaic Canyons,35,419.58,372.44
+Entire home/apt,35,Santa Monica,814,413.51,343.0
+Entire home/apt,36,Woodland Hills,374,410.17,264.5
+Entire home/apt,37,Culver City,488,410.14,344.64
+Entire home/apt,38,Redondo Beach,256,407.95,306.98
+Entire home/apt,39,West Hollywood,924,406.24,327.0
+Entire home/apt,40,Carthay,68,403.92,272.5
+Entire home/apt,41,Los Feliz,192,402.01,248.29
+Entire home/apt,42,Westwood,186,401.87,222.94
+Entire home/apt,43,Toluca Lake,60,398.81,341.21
+Entire home/apt,44,Compton,43,398.72,284.73
+Entire home/apt,45,Altadena,77,393.03,290.0
+Entire home/apt,46,Santa Clarita,184,392.13,326.5
+Entire home/apt,47,Calabasas,88,390.19,294.0
+Entire home/apt,48,Baldwin Hills/Crenshaw,67,388.62,273.78
+Entire home/apt,49,Hacienda Heights,147,387.54,281.67
+Entire home/apt,50,Del Aire,52,387.42,254.0
+Entire home/apt,51,Hancock Park,56,386.89,266.07
+Entire home/apt,52,Monterey Park,166,377.76,357.0
+Entire home/apt,53,West Hills,127,368.63,287.78
+Entire home/apt,54,San Gabriel,119,367.88,319.0
+Entire home/apt,55,Gramercy Park,37,366.74,171.18
+Entire home/apt,56,Valley Glen,154,365.38,263.66
+Entire home/apt,57,Northridge,114,365.33,215.0
+Entire home/apt,58,San Fernando,30,364.67,290.59
+Entire home/apt,59,Pico-Union,60,361.63,246.0
+Entire home/apt,60,Covina,50,359.25,239.65
+Entire home/apt,61,Playa Vista,42,354.69,308.5
+Entire home/apt,62,Rowland Heights,205,352.33,270.0
+Entire home/apt,63,Glendora,90,349.78,298.0
+Entire home/apt,64,South Pasadena,76,348.88,269.0
+Entire home/apt,65,Mar Vista,203,348.14,215.54
+Entire home/apt,66,Westchester,169,345.45,214.14
+Entire home/apt,67,Pasadena,544,341.63,268.18
+Entire home/apt,68,Lawndale,67,340.56,294.5
+Entire home/apt,69,Mayflower Village,42,337.51,308.12
+Entire home/apt,70,East Pasadena,63,336.74,278.45
+Entire home/apt,71,Burbank,431,335.2,270.46
+Entire home/apt,72,Arlington Heights,35,334.44,230.76
+Entire home/apt,73,Lennox,48,333.22,319.5
+Entire home/apt,74,Harvard Heights,38,329.33,169.27
+Entire home/apt,75,Bellflower,46,328.71,287.0
+Entire home/apt,76,Torrance,171,327.73,254.59
+Entire home/apt,77,Westmont,84,326.59,309.0
+Entire home/apt,78,Mount Washington,83,323.16,252.0
+Entire home/apt,79,West Covina,144,322.52,272.74
+Entire home/apt,80,Montebello,31,322.38,254.0
+Entire home/apt,81,Hawthorne,187,321.79,274.0
+Entire home/apt,82,Glendale,538,321.45,285.0
+Entire home/apt,83,Larchmont,57,321.21,219.28
+Entire home/apt,84,Downey,98,320.32,258.5
+Entire home/apt,85,Long Beach,1324,318.89,251.33
+Entire home/apt,86,Del Rey,172,318.32,249.92
+Entire home/apt,87,Vermont Square,74,316.88,211.33
+Entire home/apt,88,Claremont,37,314.67,248.5
+Entire home/apt,89,Arcadia,112,313.03,264.18
+Entire home/apt,90,Whittier,80,312.05,242.5
+Entire home/apt,91,Silver Lake,344,310.46,210.57
+Entire home/apt,92,Alhambra,435,306.4,279.59
+Entire home/apt,93,Inglewood,340,305.5,209.17
+Entire home/apt,94,West Los Angeles,111,302.34,215.6
+Entire home/apt,95,Valinda,30,302.16,222.0
+Entire home/apt,96,East Los Angeles,284,302.09,262.0
+Entire home/apt,97,Rosemead,47,300.95,260.0
+Entire home/apt,98,El Segundo,45,300.64,281.39
+Entire home/apt,99,Sawtelle,153,296.37,190.73
+Entire home/apt,100,North Hollywood,283,296.08,203.0
+Entire home/apt,101,El Sereno,65,295.17,184.16
+Entire home/apt,102,Atwater Village,71,294.66,225.37
+Entire home/apt,103,Diamond Bar,59,294.04,290.67
+Entire home/apt,104,Monrovia,155,291.64,265.33
+Entire home/apt,105,Pico-Robertson,181,290.82,231.0
+Entire home/apt,106,Manchester Square,52,289.15,212.63
+Entire home/apt,107,San Pedro,122,288.44,186.18
+Entire home/apt,108,Gardena,62,287.34,234.51
+Entire home/apt,109,North Hills,57,286.66,221.24
+Entire home/apt,110,Winnetka,78,285.98,211.12
+Entire home/apt,111,Norwalk,51,284.06,227.5
+Entire home/apt,112,West Adams,101,283.22,235.21
+Entire home/apt,113,Pico Rivera,45,282.79,263.0
+Entire home/apt,114,Palmdale,92,282.29,286.59
+Entire home/apt,115,Eagle Rock,124,281.94,184.23
+Entire home/apt,116,Carson,64,279.62,204.84
+Entire home/apt,117,Glassell Park,73,278.64,170.17
+Entire home/apt,118,Hyde Park,123,276.07,179.53
+Entire home/apt,119,Leimert Park,34,275.89,223.0
+Entire home/apt,120,Mid-City,357,275.81,205.31
+Entire home/apt,121,Azusa,77,274.45,247.33
+Entire home/apt,122,Downtown,733,274.36,221.83
+Entire home/apt,123,Van Nuys,150,273.24,212.4
+Entire home/apt,124,Pomona,90,272.11,253.84
+Entire home/apt,125,Hollywood,1030,270.87,203.13
+Entire home/apt,126,Montecito Heights,55,267.06,192.21
+Entire home/apt,127,Sylmar,35,266.21,198.0
+Entire home/apt,128,Highland Park,158,265.25,193.43
+Entire home/apt,129,Echo Park,234,263.92,202.39
+Entire home/apt,130,Westlake,228,263.51,184.37
+Entire home/apt,131,Mid-Wilshire,300,261.78,176.29
+Entire home/apt,132,East Hollywood,207,260.85,173.3
+Entire home/apt,133,Lake Balboa,83,260.57,200.0
+Entire home/apt,134,South El Monte,31,259.61,228.81
+Entire home/apt,135,East San Gabriel,79,259.57,214.61
+Entire home/apt,136,South Gate,43,257.5,241.0
+Entire home/apt,137,Sun Valley,69,255.71,160.09
+Entire home/apt,138,Lancaster,172,253.17,227.25
+Entire home/apt,139,Temple City,84,247.55,237.9
+Entire home/apt,140,El Monte,183,247.25,188.8
+Entire home/apt,141,South Whittier,38,246.94,212.0
+Entire home/apt,142,South San Gabriel,43,236.78,203.0
+Entire home/apt,143,Baldwin Park,99,236.52,181.0
+Entire home/apt,144,Harbor Gateway,40,236.18,158.33
+Entire home/apt,145,Lakewood,47,235.41,185.4
+Entire home/apt,146,Exposition Park,78,234.28,172.09
+Entire home/apt,147,Jefferson Park,80,231.8,158.57
+Entire home/apt,148,Reseda,135,215.13,168.32
+Entire home/apt,149,Koreatown,237,208.56,150.47
+Entire home/apt,150,Panorama City,32,205.91,137.13
+Entire home/apt,151,Canoga Park,55,193.0,158.0
+Entire home/apt,152,Quartz Hill,30,191.92,167.43
+Entire home/apt,153,Boyle Heights,63,187.02,132.77
+Entire home/apt,154,Palms,151,179.55,129.72
+Hotel room,1,Venice,34,1261.98,841.6
+Hotel room,2,West Hollywood,73,712.57,575.0
+Hotel room,3,Downtown,45,328.16,297.35
+Private room,1,Beverly Hills,120,365.31,164.5
+Private room,2,Santa Monica,194,300.09,210.6
+Private room,3,Hollywood Hills West,46,272.86,163.0
+Private room,4,Venice,109,257.43,211.5
+Private room,5,El Segundo,65,252.86,268.0
+Private room,6,Downtown,157,246.53,161.34
+Private room,7,Redondo Beach,102,235.23,145.55
+Private room,8,Burbank,109,233.33,135.0
+Private room,9,Manhattan Beach,32,221.7,109.53
+Private room,10,West Hollywood,128,217.74,183.31
+Private room,11,Torrance,114,216.94,148.35
+Private room,12,Studio City,38,203.12,171.5
+Private room,13,Hollywood Hills,79,195.48,132.0
+Private room,14,Westchester,36,184.52,98.28
+Private room,15,Glendale,90,176.76,159.49
+Private room,16,Long Beach,286,173.96,134.0
+Private room,17,Hawthorne,67,172.86,116.0
+Private room,18,Beverly Grove,75,169.35,97.71
+Private room,19,Del Rey,36,165.77,106.2
+Private room,20,Culver City,114,158.1,128.5
+Private room,21,El Monte,108,157.75,110.5
+Private room,22,Pasadena,124,156.41,123.0
+Private room,23,View Park-Windsor Hills,34,151.14,121.0
+Private room,24,Whittier,30,151.06,120.0
+Private room,25,Silver Lake,30,145.29,120.33
+Private room,26,Inglewood,100,143.91,101.56
+Private room,27,Tarzana,32,141.75,71.52
+Private room,28,Hollywood,257,137.39,89.6
+Private room,29,Lawndale,30,133.04,97.5
+Private room,30,Hyde Park,47,131.74,70.01
+Private room,31,Gardena,55,130.73,117.64
+Private room,32,West Hills,32,126.12,67.42
+Private room,33,Alhambra,166,123.45,96.5
+Private room,34,Valley Glen,31,121.85,83.29
+Private room,35,Carson,43,121.33,119.5
+Private room,36,Santa Clarita,95,117.33,102.0
+Private room,37,Mar Vista,31,115.58,84.6
+Private room,38,Sherman Oaks,54,111.43,84.71
+Private room,39,Winnetka,41,108.94,90.0
+Private room,40,Rosemead,43,108.88,86.0
+Private room,41,Monterey Park,116,108.05,94.5
+Private room,42,Westlake,63,107.79,95.07
+Private room,43,East Hollywood,84,106.44,69.7
+Private room,44,Pico-Robertson,41,106.13,80.08
+Private room,45,West Covina,77,105.11,100.31
+Private room,46,Woodland Hills,80,104.92,78.73
+Private room,47,San Gabriel,87,104.52,97.0
+Private room,48,Mid-Wilshire,84,103.86,84.68
+Private room,49,Arcadia,67,103.79,80.0
+Private room,50,Koreatown,154,103.57,72.97
+Private room,51,Pomona,55,98.02,76.5
+Private room,52,East San Gabriel,49,96.91,90.44
+Private room,53,Palms,34,96.2,75.22
+Private room,54,Norwalk,34,95.25,93.0
+Private room,55,Covina,42,95.06,76.5
+Private room,56,Van Nuys,31,94.6,69.08
+Private room,57,Downey,46,94.39,84.23
+Private room,58,Echo Park,43,93.82,62.89
+Private room,59,Sawtelle,93,92.74,71.93
+Private room,60,West Los Angeles,53,92.09,59.37
+Private room,61,Walnut,37,91.35,82.5
+Private room,62,Mid-City,146,91.04,69.6
+Private room,63,Temple City,41,89.86,81.57
+Private room,64,Boyle Heights,49,89.25,44.27
+Private room,65,Baldwin Hills/Crenshaw,36,88.85,68.21
+Private room,66,Reseda,33,88.31,66.37
+Private room,67,North Hollywood,101,87.93,74.52
+Private room,68,Hacienda Heights,131,86.76,79.6
+Private room,69,Rowland Heights,204,83.89,79.0
+Private room,70,Brentwood,49,83.64,68.6
+Private room,71,East Los Angeles,65,82.95,59.4
+Private room,72,Baldwin Park,38,80.1,74.5
+Private room,73,Palmdale,112,78.56,69.0
+Private room,74,Westwood,241,77.19,59.37
+Private room,75,Vermont Square,54,76.34,62.73
+Private room,76,Pico-Union,74,70.0,53.7
+Private room,77,Lancaster,203,64.47,57.06
+Private room,78,Arlington Heights,63,62.17,46.46
+Private room,79,Adams-Normandie,70,55.21,50.07
+Private room,80,Exposition Park,765,53.37,48.13
