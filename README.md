@@ -8,6 +8,10 @@ The final product is an interactive Streamlit dashboard where users can adjust l
 
 Airbnb prices can vary widely depending on location, room type, property type, number of guests, amenities, reviews, and availability. The goal of this project was to build a machine learning pipeline that predicts nightly price and turns the results into a simple dashboard for market/user insights.
 
+## Live Demo 
+
+[Open the Streamlit dashboard](https://ml-project-9d4h7f7zpphjzcdp9w6rzs.streamlit.app/)
+
 ## Features
 
 - Cleaned and prepared raw Airbnb listing data
