@@ -10,7 +10,7 @@ Airbnb prices can vary widely depending on location, room type, property type, n
 
 ## Live Demo 
 
-[Open the Streamlit dashboard](https://ml-project-9d4h7f7zpphjzcdp9w6rzs.streamlit.app/)
+[Open the dashboard](https://ml-project-9d4h7f7zpphjzcdp9w6rzs.streamlit.app/)
 
 ## Features
 
